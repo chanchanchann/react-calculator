@@ -13,17 +13,17 @@
 }
 
 .row{
-  padding-left: 15px;
-  /* display : flex; */
-  width:103.8%;
+  
+  display : flex;
+  width:100%;
 }
 .display{
   color:white;
   font-size:50px;
   height: 2.9em;
-  padding-left: 15px;
+  
   display : flex;
-  width:103.8%;
+  width:100%;
 }
 
 .button{
